@@ -1,2 +1,2 @@
 ## TreeScript - WIP
-Simple but very advanced Programming Language.
+A simple but very advanced Programming Language.
